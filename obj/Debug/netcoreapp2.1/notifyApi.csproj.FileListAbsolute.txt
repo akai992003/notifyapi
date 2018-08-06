@@ -1,0 +1,14 @@
+/Users/chukaisu/api/notifyApi/bin/Debug/netcoreapp2.1/notifyApi.deps.json
+/Users/chukaisu/api/notifyApi/bin/Debug/netcoreapp2.1/notifyApi.runtimeconfig.json
+/Users/chukaisu/api/notifyApi/bin/Debug/netcoreapp2.1/notifyApi.runtimeconfig.dev.json
+/Users/chukaisu/api/notifyApi/bin/Debug/netcoreapp2.1/notifyApi.dll
+/Users/chukaisu/api/notifyApi/bin/Debug/netcoreapp2.1/notifyApi.pdb
+/Users/chukaisu/api/notifyApi/obj/Debug/netcoreapp2.1/notifyApi.csprojAssemblyReference.cache
+/Users/chukaisu/api/notifyApi/obj/Debug/netcoreapp2.1/notifyApi.csproj.CoreCompileInputs.cache
+/Users/chukaisu/api/notifyApi/obj/Debug/netcoreapp2.1/notifyApi.RazorAssemblyInfo.cache
+/Users/chukaisu/api/notifyApi/obj/Debug/netcoreapp2.1/notifyApi.RazorAssemblyInfo.cs
+/Users/chukaisu/api/notifyApi/obj/Debug/netcoreapp2.1/notifyApi.AssemblyInfoInputs.cache
+/Users/chukaisu/api/notifyApi/obj/Debug/netcoreapp2.1/notifyApi.AssemblyInfo.cs
+/Users/chukaisu/api/notifyApi/obj/Debug/netcoreapp2.1/notifyApi.RazorTargetAssemblyInfo.cache
+/Users/chukaisu/api/notifyApi/obj/Debug/netcoreapp2.1/notifyApi.dll
+/Users/chukaisu/api/notifyApi/obj/Debug/netcoreapp2.1/notifyApi.pdb
